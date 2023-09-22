@@ -6,4 +6,5 @@ This project was based on "The Ultimate Unreal Engine 2D Game Development Course
 # Game trailer
 Check a trailer I made to feature the game study project
 
-https://www.youtube.com/watch?v=fiA25MY5p9E
+
+[![Thumb](https://github.com/douglasavilak/TowerClimb-Unreal/assets/4285378/ce689f4b-fc33-4d8d-ad3d-65e999c22195)](https://www.youtube.com/watch?v=fiA25MY5p9E)
